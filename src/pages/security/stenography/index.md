@@ -11,10 +11,10 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 
 ## Different Types of Steganography:
 
-- [Physical Steganography:] Hidden messages in wax tablets, messenger's bodies, secret ink.
-- [Text Steganography:] Hidden messages added to digital metadata of PDFs, markup languages, shifting words.
-- [Image Steganography:] Hidden messages in intensity or frequency of pixels, inserstion and noise manipulation
-- [Audio Steganography:] Hidden messages embedded in WAV, AU, or mp3's.
+- _Physical Steganography:_ Hidden messages in wax tablets, messenger's bodies, secret ink.
+- _Text Steganography:_ Hidden messages added to digital metadata of PDFs, markup languages, shifting words.
+- _Image Steganography:_ Hidden messages in intensity or frequency of pixels, inserstion and noise manipulation
+- _Audio Steganography:_ Hidden messages embedded in WAV, AU, or mp3's.
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 
